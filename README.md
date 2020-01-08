@@ -1,5 +1,3 @@
-# Real-Time_Retinal_Vessel_Segmentation
-
 # Real-Time Retinal Vessel Segmentation on High-Resolution Fundus Images Using Laplacian Pyramids
 ### Pacific-Rim Symposium on Image and Video Technology 2019
 **Authors: R. Dachsel, A. Jöster, M. Breuß**
