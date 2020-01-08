@@ -1,3 +1,15 @@
+% This code accompanies the paper:
+% Real-Time Retinal Vessel Segmentation on High-Resolution Fundus Images Using Laplacian Pyramids
+% R. Dachsel, A. Jöster, M. Breuß
+% Pacific-Rim Symposium on Image and Video Technology 2019
+ 
+% Please cite the paper above if you use the code.
+
+% Written by R. Dachsel
+% Brandenburg Technical University 
+% (c) 2019
+
+
 clc, close all, clear all
 addpath('./dataset')
 
