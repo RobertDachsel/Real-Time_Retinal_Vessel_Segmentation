@@ -13,6 +13,16 @@
   title={Real-Time Retinal Vessel Segmentation on High-Resolution Fundus Images Using Laplacian Pyramids},
   author={Dachsel, Robert and Jöster, Annika and Breuß, Michael},
   booktitle={Proceedings of the Pacific-Rim Symposium on Image and Video Technology},
-  pages={...},
+  pages={337--350},
   year={2019}
 }
+
+**If you use this the high resolution dataset, please cite the paper.**
+
+@inproceedings{dachsel2019vesselsegmentation,
+  title={Robust vessel segmentation in fundus images},
+  author={Budai, A. and Bock, R. and Maier, A.},
+  booktitle={Biomed. Imaging},
+  year={2013}
+}
+
