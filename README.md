@@ -20,9 +20,9 @@
 }
 ```
 
-  **If you use this the high resolution dataset, please cite the paper.**
+  **If you use the high resolution dataset, please cite the paper.**
 ```
-@inproceedings{dachsel2019vesselsegmentation,
+@inproceedings{budai2013,
   title={Robust vessel segmentation in fundus images},
   author={Budai, A. and Bock, R. and Maier, A.},
   booktitle={Biomed. Imaging},
