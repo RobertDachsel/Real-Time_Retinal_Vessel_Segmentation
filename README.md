@@ -7,7 +7,7 @@
 ![](https://github.com/RobertDachsel/Real-Time_Retinal_Vessel_Segmentation/blob/master/poster.png)
 
 
-
+Paper can be found here: https://link.springer.com/chapter/10.1007/978-3-030-34879-3_26
 
 **If you use this code, please cite the paper.**
 ```
